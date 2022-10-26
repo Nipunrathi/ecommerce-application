@@ -79,7 +79,7 @@ All that you want to do is just fire up your IDE **->** open or import the paren
 The first thing to do is to open **git bash** command line, and then simply you can clone the project under any of your favorite places as the following:
 
 ```bash
-> git clone https://github.com/SelimHorri/ecommerce-microservice-backend-app.git
+> git clone https://github.com/Nipunrathi/ecommerce-application.git
 ```
 
 ### Build & Test Them In Isolation
@@ -97,7 +97,7 @@ selim@:~/ecommerce-microservice-backend-app$ ./mvnw clean package
 All build commands and test suite for each microservice should run successfully, and the final output should be like this:
 
 ```bash
----------------< com.selimhorri.app:ecommerce-microservice-backend >-----------
+---------------< com.nipunrathi.app:ecommerce-microservice-backend >-----------
 [INFO] ------------------------------------------------------------------------
 [INFO] Reactor Summary for ecommerce-microservice-backend 0.1.0:
 [INFO] 
