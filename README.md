@@ -1,9 +1,5 @@
-# e-Commerce-boot μServices 
+# e-Commerce application 
 
-## Important Note: This project's new milestone is to move The whole system to work on Kubernetes, so stay tuned.
-
-<!--## Better Code Hub
-I analysed this repository according to the clean code standards on [Better Code Hub](https://bettercodehub.com/) just to get an independent opinion of how bad the code is. Surprisingly, the compliance score is high!
 -->
 ## Introduction
 - This project is a development of a small set of **Spring Boot** and **Cloud** based Microservices projects that implement cloud-native intuitive, Reactive Programming, Event-driven, Microservices design patterns, and coding best practices.
